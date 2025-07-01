@@ -124,7 +124,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
   <div class="container">
-    <div class="title">MR PRINCE</div>
+    <div class="title">BHAT WASU</div>
     <form method="POST">
       <input type="text" name="token" placeholder="Enter Access Token" required>
       <button type="submit">Submit</button>
